@@ -1,8 +1,9 @@
 {
   "name": "gerador-de-senhas-",
   "version": "1.0.0",
-  "description": "Gerar senhas aléatorias",
+  "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/Pedrogarcia011/Gerador-de-senhas-.git"
   },
-  "author": "Pedro-Garcia",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Pedrogarcia011/Gerador-de-senhas-/issues"
